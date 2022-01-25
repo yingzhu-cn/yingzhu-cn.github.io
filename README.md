@@ -1,1 +1,1 @@
-# yingzhu-cn.github.io
+# yingzhu.github.io
